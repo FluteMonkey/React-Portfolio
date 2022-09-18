@@ -1,0 +1,37 @@
+.nav-bar {
+    background: #353535;
+    width: 130px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 3;
+    min-height: 500px;
+
+    .logo {
+        display: block;
+        padding : 8px 35px;
+        list-style: none;
+        text-decoration: none;
+
+        img {
+            display: block;
+            margin: 5px 0;
+            width: 60px;
+            height: auto;
+        }
+    }
+
+    .nav-item {
+        display: block;
+        padding : 8px 0px;
+        list-style: none;
+        text-decoration: none;
+
+        img {
+            display: block;
+            margin: 5px 0;
+            width: 70px;
+            height: auto;
+        }
+    }
+}
