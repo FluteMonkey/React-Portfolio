@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.befcc385.css",
-    "main.js": "/react-portfolio/static/js/main.c7bc5c72.js",
-    "static/js/787.62b3bc4e.chunk.js": "/react-portfolio/static/js/787.62b3bc4e.chunk.js",
-    "static/media/5.png": "/react-portfolio/static/media/5.3e216d59e0fe955c3d42.png",
-    "static/media/4.png": "/react-portfolio/static/media/4.80aa1cd89b257217ed72.png",
-    "static/media/Jesus.JPG": "/react-portfolio/static/media/Jesus.50177e4daac06a6186f7.JPG",
-    "static/media/3.png": "/react-portfolio/static/media/3.77356db5617b8bae316e.png",
-    "static/media/2.png": "/react-portfolio/static/media/2.b2db9b6a216d6a0ccac2.png",
-    "static/media/mail.png": "/react-portfolio/static/media/mail.56d6c6238a89e484deb3.png",
-    "static/media/1.png": "/react-portfolio/static/media/1.c041553a99f331a5a18e.png",
-    "static/media/helvetica-neu.ttf": "/react-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/logo3.png": "/react-portfolio/static/media/logo3.4e8df23c0dbefba0b048.png",
-    "static/media/people.png": "/react-portfolio/static/media/people.497a0b2736ae594108a6.png",
-    "static/media/LaBelleAurore.woff2": "/react-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/home.png": "/react-portfolio/static/media/home.b9fd3081819a6b177ebe.png",
-    "static/media/0.png": "/react-portfolio/static/media/0.486456e80213d40908e6.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/react-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/react-portfolio/index.html",
-    "main.befcc385.css.map": "/react-portfolio/static/css/main.befcc385.css.map",
-    "main.c7bc5c72.js.map": "/react-portfolio/static/js/main.c7bc5c72.js.map",
-    "787.62b3bc4e.chunk.js.map": "/react-portfolio/static/js/787.62b3bc4e.chunk.js.map"
+    "main.css": "/React-Portfolio/static/css/main.b25223c7.css",
+    "main.js": "/React-Portfolio/static/js/main.90b9a245.js",
+    "static/js/787.62b3bc4e.chunk.js": "/React-Portfolio/static/js/787.62b3bc4e.chunk.js",
+    "static/media/5.png": "/React-Portfolio/static/media/5.3e216d59e0fe955c3d42.png",
+    "static/media/4.png": "/React-Portfolio/static/media/4.80aa1cd89b257217ed72.png",
+    "static/media/Jesus.JPG": "/React-Portfolio/static/media/Jesus.50177e4daac06a6186f7.JPG",
+    "static/media/3.png": "/React-Portfolio/static/media/3.77356db5617b8bae316e.png",
+    "static/media/2.png": "/React-Portfolio/static/media/2.b2db9b6a216d6a0ccac2.png",
+    "static/media/mail.png": "/React-Portfolio/static/media/mail.56d6c6238a89e484deb3.png",
+    "static/media/1.png": "/React-Portfolio/static/media/1.c041553a99f331a5a18e.png",
+    "static/media/helvetica-neu.ttf": "/React-Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo3.png": "/React-Portfolio/static/media/logo3.4e8df23c0dbefba0b048.png",
+    "static/media/people.png": "/React-Portfolio/static/media/people.497a0b2736ae594108a6.png",
+    "static/media/LaBelleAurore.woff2": "/React-Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/home.png": "/React-Portfolio/static/media/home.b9fd3081819a6b177ebe.png",
+    "static/media/0.png": "/React-Portfolio/static/media/0.486456e80213d40908e6.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/React-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/React-Portfolio/index.html",
+    "main.b25223c7.css.map": "/React-Portfolio/static/css/main.b25223c7.css.map",
+    "main.90b9a245.js.map": "/React-Portfolio/static/js/main.90b9a245.js.map",
+    "787.62b3bc4e.chunk.js.map": "/React-Portfolio/static/js/787.62b3bc4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.befcc385.css",
-    "static/js/main.c7bc5c72.js"
+    "static/css/main.b25223c7.css",
+    "static/js/main.90b9a245.js"
   ]
 }
