@@ -1,4 +1,5 @@
 import './index.scss'
+import { Link } from "react-router-dom";
 import Jesus from '../../assets/images/Jesus.JPG';
 import Home from '../../assets/images/home.png';
 import Mail from '../../assets/images/mail.png';
@@ -12,25 +13,19 @@ const Sidebar = ({ currentPage, handlePageChange }) => (
         <nav>
         <ul>
             <li className='nav-item'>
-                <a href='#home'
-                onClick={() => handlePageChange('Home')}
-                className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}
-                >
+                <Link to="/">
                     <img src={Home} alt="home icon"/>
-                </a>
+                </Link>
             </li>
             <li className='nav-item'>
-                <a href='#contact'
-                onClick={() => handlePageChange('Contacts')}
-                className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}>
+                <Link to="/contact">
                     <img src={Mail} alt="home icon"/>
-                </a>
+                </Link>
             </li>
             <li className='nav-item'>
-                <a href='#work' onClick={() => handlePageChange('Work')}
-                className={currentPage === 'Work' ? 'nav-link active' : 'nav-link'}>
-                    <img src={Work} alt="home icon"/>
-                </a>
+                <Link to="/work">
+                    <img src={Work} alt="Work icon"/>
+                </Link>
             </li>
         </ul>
     </nav>
