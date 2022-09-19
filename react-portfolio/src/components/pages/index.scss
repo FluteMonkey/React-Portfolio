@@ -11,3 +11,35 @@
     width: 40vh;
     color: #D9D9D9;
 }
+
+.contactBox {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 25px;
+    align-content: center;
+    margin: 50px 50vh;
+    padding: 10px 80vh;
+    margin: 8px 20px;
+    width: 40vh;
+    color: #D9D9D9;
+}
+.numberBox {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 25px;
+    align-content: center;
+    margin: 50px 50vh;
+    padding: 10px 80vh;
+    margin: 8px 20px;
+    width: 40vh;
+    color: #D9D9D9;
+}
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,53 @@
+.projectBox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    ;
+  }
+  .projectBox img {
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    background-color: teal;
+    border: 1px solid teal;
+  }
+  
+  
+  .projectInfo {
+    color: black;
+    padding: 2px;
+    background-color: teal;
+    height: 50px;
+    width: fit-content;
+    position: relative;
+    top: 70px;
+    left: 5px;
+    z-index: 15;
+    border-radius: 6px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+  }
+  .githubKitty {
+    width: 45px;
+    height: 45px;
+    border-radius: 100px;
+    padding-top: 9px;
+    margin-left: 1px
+  }
+  .projectInfo h6 {
+    padding-left: 7px;
+    font-weight: 700;
+    margin:0;
+  }
+  .projectInfo p {
+    font-size: 2.25vh;
+    padding-left: 7px;
+  }
+  
+  .projectInfo a {
+    color: black;
+  }
+  
+  .projectInfo a:hover {
+    color: #2b374f;
+  }
